@@ -210,4 +210,3 @@ ACM-ICPC Algorithms is a collection of important algorithms and data structures 
 * [Geometry 2D](/Geometry%202D)
    * [Lines Intersection](/Geometry%202D/Lines%20Intersection)
    
-   Test Git
